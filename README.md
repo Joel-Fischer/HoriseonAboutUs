@@ -7,3 +7,4 @@ This is an About Us page for Horiseon.  It was created for the Module 1 Challeng
 https://joel-fischer.github.io/HoriseonAboutUs/
 
 ## Screenshot: 
+![Website Screenshot](./assets/images/Screenshot.JPG)
